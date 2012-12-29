@@ -1,4 +1,4 @@
 redmine_practice
 ================
 
-redmine_practice.git
+Gitを利用した場合のRedmineの動作確認用のリポジトリです。
